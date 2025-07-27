@@ -32,7 +32,7 @@ Purpose of Flight (Personal, Business, Commercial, Instructional)
 <img width="1249" height="999" alt="Final_Project_1_Phase" src="https://github.com/user-attachments/assets/4cfd5b95-33b2-4979-a9ad-a75330fc372f" />
 # Conclusion
 ## Summary of Findings
- ### Low-Risk Aircraft Models Identified
+### Low-Risk Aircraft Models Identified
 Specific aircraft models, including the Cessna 172, Piper PA-28, and Beechcraft Bonanza, exhibit the lowest incidence of fatal or severe accidents relative to their prevalence in the dataset. These models demonstrate consistently favorable safety profiles across multiple decades.
 
 ### Downward Trend in Incident Frequency Over Time
