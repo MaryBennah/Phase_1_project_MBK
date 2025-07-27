@@ -33,6 +33,7 @@ Purpose of Flight (Personal, Business, Commercial, Instructional)
 # Conclusion
 ## Summary of Findings
 
+# Conclusion
 ### Downward Trend in Incident Frequency Over Time
 Since 1990, the annual rate of aviation accidents has steadily declined, particularly in the commercial sector. This trend likely reflects advancements in regulatory standards, aircraft technology, pilot training, and incident reporting practices.
 ### Low-Risk Aircraft Models Identified 
