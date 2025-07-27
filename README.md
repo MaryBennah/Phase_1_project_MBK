@@ -37,3 +37,5 @@ Specific aircraft models, including the Cessna 172, Piper PA-28, and Beechcraft 
 
 ### Downward Trend in Incident Frequency Over Time
 Since 1990, the annual rate of aviation accidents has steadily declined, particularly in the commercial sector. This trend likely reflects advancements in regulatory standards, aircraft technology, pilot training, and incident reporting practices.
+### Low-Risk Aircraft Models Identified 
+Specific aircraft models, including the Cessna 172, Piper PA-28, and Beechcraft Bonanza, exhibit the lowest incidence of fatal or severe accidents relative to their prevalence in the dataset. These models demonstrate consistently favorable safety profiles across multiple decades.
