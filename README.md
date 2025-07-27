@@ -47,7 +47,7 @@ Invest in aircraft such as the Cessna 172, Piper PA-28, and Beechcraft Bonanza, 
 Limit fleet acquisition for personal or recreational use, which carries elevated risk. Instead, prioritize aircraft that will operate under regulated commercial or business environments with standardized procedures and oversight.
 
 ## Adopt Risk-Informed Procurement Criteria
-Incorporate safety metrics—such as historical injury severity, mechanical reliability, and flight phase risk profiles—into the aircraft selection process. These indicators will support a robust and evidence-based procurement strategy.
+Incorporate safety metrics, such as historical injury severity, mechanical reliability, and flight phase risk profiles, into the aircraft selection process. These indicators will support a robust and evidence-based procurement strategy.
 
 
 
